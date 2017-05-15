@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "node ../../testem.js ci -P 10"
+    "test": "./node_modules/.bin/testem ci --port 8080"
   },
   "repository": {
     "type": "git",

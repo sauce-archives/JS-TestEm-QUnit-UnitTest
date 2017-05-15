@@ -27,7 +27,7 @@ This code is provided on an "AS-IS” basis without warranty of any kind, either
 
 * Tests in Parallel:
 	```
-	$ ./node_modules/.bin/testem ci --port 8080
+	$ npm test
 	```
 
 [Sauce Labs Dashboard](https://saucelabs.com/beta/dashboard/)
